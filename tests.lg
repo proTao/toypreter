@@ -1,0 +1,5 @@
+print sum 1 2
+to double :x
+output sum :x :x
+end
+print double 1
